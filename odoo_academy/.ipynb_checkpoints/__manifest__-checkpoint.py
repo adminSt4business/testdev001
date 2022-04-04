@@ -10,6 +10,7 @@
     """,
     'author': 'JPrieto',
     'website': 'https://www.st4business.com',
+    'license': 'GNU LGPL v3',
     'category': 'Training',
     'version': '0.1',
     'depends': ['base'],
