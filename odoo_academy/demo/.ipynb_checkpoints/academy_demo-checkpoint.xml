@@ -1,4 +1,4 @@
-<?xml verion="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <data noupdate="1">
         <record model="academy.course" id="erp_101">
@@ -6,6 +6,7 @@
             <field name="description">Learn ERP Systems</field>
             <field name="level">beginner</field>
         </record>
+        
         <record model="academy.course" id="accounting_200">
             <field name="name">ERP 102</field>
             <field name="description">
@@ -15,6 +16,7 @@
             </field>
             <field name="level">intermediate</field>
         </record>
+        
         <record model="academy.course" id="web_500">
             <field name="name">Website 500</field>
             <field name="description">Developing advanced Websites</field>
