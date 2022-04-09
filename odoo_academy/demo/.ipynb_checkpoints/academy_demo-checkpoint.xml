@@ -17,7 +17,7 @@
         </record>
         <record model="academy.course" id="web_500">
             <field name="name">Website 500</field>
-            <field name='description'>Developing advanced Websites</field>
+            <field name="description">Developing advanced Websites</field>
             <field name="level">advanced</field>
         </record>
     </data>
