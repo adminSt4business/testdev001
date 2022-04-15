@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <record id="group_academy_admin" model="res.groups">
+    <record model="res.groups" id="group_academy_admin">
         <field name="name">Academy / Admin</field>
-    </record>
-    
-    <record id="only_active_modify" model="ir.rule">
+    </record> 
+    <record model="ir.rule" id="only_active_modify">
         <field name="name">Only Active Course Can Be Modified</field>
         <field name="perm_read" eval="0"></field>
         <field name="perm_write" eval="1"></field>
