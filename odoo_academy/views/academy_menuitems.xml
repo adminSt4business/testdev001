@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
+    
     <data>
         <record model="ir.actions.act_window" id="course_list_action">
             <field name="name">Courses</field>
@@ -19,4 +20,5 @@
         <manuitem id="menu_academy_courses" name="Courses" parent="menu_academy_sub" sequence="3"
                   action="course_list_action"/>
     </data>
+    
 </odoo>
