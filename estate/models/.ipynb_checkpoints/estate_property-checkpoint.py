@@ -1,7 +1,7 @@
 # _*_ coding: utf-8 _*_
 from odoo import models, fields, api
 
-class Estate_property(models.Model):
+class EstateProperty(models.Model):
     _name = 'estate.property'
     _description = 'datos de propiedades inmobiliarias'
     
