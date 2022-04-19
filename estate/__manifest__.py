@@ -4,7 +4,8 @@
     'sumary': 'Monitoring of real estate sales processes',
     'category': 'sales/realty',
     'version': '0.1',
-    'license': 'GNU LGPL v3',    'depends': ['base'],
+    'license': 'GPL-3',
+    'depends': ['base'],
     'author': "Javier Prieto",
     'website': 'https://www.st4business.com',
     # data files always Loaded at intallation
