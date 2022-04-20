@@ -10,7 +10,7 @@
     'website': 'https://www.st4business.com',
     # data files always Loaded at intallation
     'data': [
-        
+        'security/ir.model.access.csv',
     ],
     # data files containing optionally Loaded demostration data
     'demo': [
